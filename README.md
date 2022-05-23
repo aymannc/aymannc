@@ -1,6 +1,6 @@
 ## Hi 👋
 
-My name is Ayman Nait Cherif, I'm a software engineer working on Digital Trust & Electronic Signatures products. Interested in Blockchain, Machine Learning, and Cloud.
+My name is Ayman Nait Cherif, I'm a software engineer working on Digital Trust & Electronic Signatures products. Interested in Blockchain.
 
 [![Linkedin](https://img.shields.io/badge/-Ayman_Nait_Cherif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayman-nait-cherif/)](https://www.linkedin.com/in/ayman-nait-cherif/)
 [![Twitter](https://img.shields.io/badge/-anc-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/anc_dot_py)](https://twitter.com/anc_dot_py)
